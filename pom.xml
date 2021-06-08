@@ -53,7 +53,7 @@
           <configuration>
                 <archive>
                     <manifest>
-                        <mainClass>com.deveops2.App</mainClass>
+                        <mainClass>com.devops2.App</mainClass>
                     </manifest>
                 </archive>
             </configuration>
